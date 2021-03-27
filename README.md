@@ -1,1 +1,1 @@
-# Level_Based_Persona for customer segmentation
+# Level based persona for customer segmentation
